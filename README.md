@@ -1,0 +1,1 @@
+# cluster_kubernet_12_05_2025
